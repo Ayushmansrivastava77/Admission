@@ -1,0 +1,474 @@
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\ApplicationInsights.config
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\csc.exe
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\vbc.exe
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll.config
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.pdb
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\EntityFramework.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Owin.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\WebGrease.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.pdb
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\EntityFramework.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+c:\users\avanish srivastava\documents\visual studio 2015\Projects\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\ApplicationInsights.config
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\csc.exe
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\vbc.exe
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.dll.config
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.pdb
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Antlr3.Runtime.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Web.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Newtonsoft.Json.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Owin.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Optimization.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Providers.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\WebGrease.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Web.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Optimization.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Antlr3.Runtime.pdb
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Newtonsoft.Json.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Providers.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
+C:\Ayush\Project\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\ApplicationInsights.config
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\csc.exe
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\vbc.exe
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.dll.config
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\AdmissionManagement.pdb
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Antlr3.Runtime.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Web.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Newtonsoft.Json.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Owin.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Optimization.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Providers.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\WebGrease.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.Web.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Optimization.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Antlr3.Runtime.pdb
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Newtonsoft.Json.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\System.Web.Providers.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+C:\0 Karunadu\AdmissionManagement - Copy\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\ApplicationInsights.config
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\csc.exe
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\vbc.exe
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll.config
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.pdb
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Owin.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\WebGrease.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.pdb
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+C:\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\ApplicationInsights.config
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\csc.exe
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\vbc.exe
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll.config
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.pdb
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Owin.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\WebGrease.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.pdb
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+C:\1 ME\College\Internship\Ayushmann\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\ApplicationInsights.config
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\csc.exe
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\vbc.exe
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll.config
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AdmissionManagement.pdb
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Owin.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\WebGrease.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.Web.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.ApplicationInsights.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Optimization.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Antlr3.Runtime.pdb
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Newtonsoft.Json.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\EntityFramework.SqlServer.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\System.Web.Providers.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csprojResolveAssemblyReference.cache
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.dll
+C:\1 ME\1 Placements\Projects\0 Karunadu\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
